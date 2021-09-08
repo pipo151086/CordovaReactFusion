@@ -4,15 +4,15 @@
 
 
 
-### First Lets Install every package and dependencies
+### 1. Lets Install every package and dependencies
 npm i
 
 
-### Second> Run the project in the browser
+### 2. Run the project in the browser
 yarn start
 
 
-### Third> run the project in the emulator
+### 3. run the project in the emulator
 cordova run android
 
 ### TODO> Actual BoilerPlate
